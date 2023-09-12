@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on basic Python projects
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, PySide and Qt
 - 👯 I’m not looking to collaborate on anything specific at the moment
 - 🤔 I’m looking for help on how to create efficient algorithms
 - 💬 Ask me about my field of study (high school information technology)
